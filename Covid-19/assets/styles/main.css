@@ -70,7 +70,6 @@ article {
     animation-name: showContent;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-    margin-bottom: 40px;
 }
 
 .isi {
