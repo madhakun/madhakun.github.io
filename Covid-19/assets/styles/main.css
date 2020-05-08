@@ -70,6 +70,7 @@ article {
     animation-name: showContent;
     animation-duration: 1s;
     animation-fill-mode: forwards;
+    margin-bottom: 40px;
 }
 
 .isi {
@@ -84,7 +85,6 @@ article {
     border-radius: 10px;
     flex-wrap: wrap;
     align-items: center;
-    margin-bottom: 40px;
 }
 
 .isi > .imageContent {
