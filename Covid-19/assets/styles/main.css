@@ -84,6 +84,7 @@ article {
     border-radius: 10px;
     flex-wrap: wrap;
     align-items: center;
+    margin-bottom: 40px;
 }
 
 .isi > .imageContent {
